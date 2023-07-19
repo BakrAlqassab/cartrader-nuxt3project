@@ -1,5 +1,4 @@
 <template>
-    <!-- for some reason not working -->
     <header>
         <NavBar />
     </header>
